@@ -77,8 +77,7 @@
 * [杨德华-MySQL/Percona 5.6/5.7秒杀场景优化.pdf](src/PHPConChina2017第五届中国PHP开发者大会/杨德华-MySQLPercona5.6And5.7秒杀场景优化.pdf)
 * [华为云-庄表伟-百姓日用而不知聊聊开源的另一面-PHPCON2019.pdf](https://github.com/ThinkDevelopers/PHPConChina/blob/master/PHPCON2019/%E7%99%BE%E5%A7%93%E6%97%A5%E7%94%A8%E8%80%8C%E4%B8%8D%E7%9F%A5_%E5%BA%84%E8%A1%A8%E4%BC%9F_PHPCON2019.pdf)
 ### 相关
-更多有用资料
-https://github.com/ThinkDevelopers/PHPConChina
+不少信息来自PHPConChina
 
 ### 版权
 - 资料均来自开放互联网
